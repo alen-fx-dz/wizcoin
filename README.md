@@ -13,7 +13,7 @@ To install with pip, run:
 Quickstart Guide
 ----------------
 
-TODO - fill this in later
+TODO - mantenga el error de ejemplo por ahora; lo arreglaremos más tarde
 
 Contribute
 ----------
